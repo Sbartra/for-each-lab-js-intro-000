@@ -1,5 +1,5 @@
 function iterativeLog(callback) {
-  forEach(${index}: ${element});
+  forEach('${index}: ${element}');
 }
 
 function doToElementsInArray(array, callback) {
